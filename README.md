@@ -1,3 +1,3 @@
 # kakoclone2020 update
 
-CSS got so much better!
+html & css is so much fun!
