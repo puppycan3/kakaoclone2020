@@ -4,9 +4,21 @@
 
 /* Components */
 @import url("components/status-bar.css");
+@import url("components/nav-bar.css");
+@import url("components/screen-header.css");
+@import url("components/user-component.css");
+@import url("components/badge.css");
+@import url("components/notification.css");
 
 /* Screens */
 @import url("screens/login.css");
+@import url("screens/friends.css");
+@import url("screens/find.css");
 body {
   font-family: "Open Sans", sans-serif;
+  color: #2f363e;
+}
+
+.main-screen {
+  padding: 0px var(--horizontal-space);
 }
