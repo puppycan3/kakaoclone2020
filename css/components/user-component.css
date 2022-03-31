@@ -34,10 +34,17 @@
   font-weight: 600;
   font-size: 20px;
 }
+
+.user-component__subtitle-flex-container {
+  display: flex;
+  align-items: flex-end;
+}
+
 .user-component__subtitle {
   margin-top: 5px;
   font-size: 17px;
   color: rgba(0, 0, 0, 0.5);
+  margin-right: 5px;
 }
 
 .user-component__column:last-child {
